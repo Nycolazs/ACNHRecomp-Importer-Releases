@@ -14,3 +14,5 @@ Ready-to-run builds of **ACNHRecomp-Importer**, the companion app of [ACNHRecomp
 No part of the game, no keys and no firmware are included in these files. Use them only with a game you own, dumped from your own console.
 
 Support and news: [discord.gg/VJW9Dtdu7a](https://discord.gg/VJW9Dtdu7a)
+
+The importer is free and will stay free. If you want to help the project keep going: [GitHub Sponsors](https://github.com/sponsors/Nycolazs) · [Ko-fi](https://ko-fi.com/nycolazs). Optional, and it unlocks nothing. Thank you! 💚
