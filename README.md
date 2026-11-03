@@ -15,4 +15,4 @@ No part of the game, no keys and no firmware are included in these files. Use th
 
 Support and news: [discord.gg/VJW9Dtdu7a](https://discord.gg/VJW9Dtdu7a)
 
-The importer is free and will stay free. If you want to help the project keep going: [GitHub Sponsors](https://github.com/sponsors/Nycolazs) · [Ko-fi](https://ko-fi.com/nycolazs). Optional, and it unlocks nothing. Thank you! 💚
+The importer is free and will stay free. If you want to help the project keep going: [GitHub Sponsors](https://github.com/sponsors/Nycolazs) · [Ko-fi](https://ko-fi.com/nycolazs) · [Buy Me a Coffee](https://buymeacoffee.com/nycolazs). Optional, and it unlocks nothing. Thank you! 💚
